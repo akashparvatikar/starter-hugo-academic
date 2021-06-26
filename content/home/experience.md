@@ -57,6 +57,7 @@ experience:
         * Develop computational pathology tools for the challenging task of correctly classifying sub-categories present within the diagnostic spectrum of breast lesions
         * Conceptualize an explainable AI framework intended to capture the visual diagnostic thinking of the pathologists
         * Build a computational pathology-based cognitive assistant by demonstrating perceptual and planning components which are useful in bringing the above technologies to everyday pathology practice 
+        * Advisor: Dr. S. Chakra Chennubhotla and Committee members: Dr. Jeffrey L. Fine, Dr. Robin E.C. Lee, Dr. Min Xu, and Dr. Arvind Ramanathan
   
   - title: Graduate Teaching Assistant 
     company: University of Pittsburgh 
@@ -77,6 +78,7 @@ experience:
     description: |2-
         * Developed computational tools to analyze high-throughput, low-resolution Cryo-Electron Microscopy images for betagalactosidase, a bacterial enzyme
         * Gathered necessary skills to use RELION (Regularized Likelihood Optimization) software that uses Bayesian statistics to reconstruct three-dimensional representation of biomolecules to near atomic resolution from two-dimensional micrographs data obtained by taking snapshots of macromolecule in different orientations
+        * Mentor: Dr. Arvind Ramanathan
         
   - title: Advanced Short-Term Research Scientist
     company: Oak Ridge National Laboratory (ORNL)
@@ -88,6 +90,7 @@ experience:
     description: |2-
         * Contributed in developing ANCA software (Anharmonic Conformational Analysis) as an extensible framework to characterize anharmonic events and enable a deeper analysis of their functional relevance
         * Contributed in developing toolbox that provides modules to measure long tail behavior of complex protein fluctuations by chasing higher order statistics
+        * Mentor: Dr. Arvind Ramanathan
 
 design:
   columns: '2'
