@@ -8,6 +8,7 @@ authors:
 - admin
 - Om Choudhary
 - Arvind Ramanathan
+- Rebekah Jenkins
 - Olga Navolotskaia
 - Gloria Carter
 - Akif Burak Tosun
@@ -50,7 +51,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://link.springer.com/chapter/10.1007/978-3-030-59722-1_53'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -61,23 +62,23 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: Springer Publisher'
-  focal_point: ""
-  preview_only: false
+# image:
+#   caption: 'Image credit: Springer Publisher'
+#   focal_point: ""
+#   preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- example
+# projects:
+# - example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+# slides: example
 ---
