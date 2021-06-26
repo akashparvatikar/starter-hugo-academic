@@ -10,7 +10,7 @@ headless: true
 weight: 120
 
 title: Popular Topics
-subtitle: ''
+subtitle: 'Pathology', 'Conference'
 
 content:
 # Choose the taxonomy from `config.toml` to display (e.g. tags, categories)
