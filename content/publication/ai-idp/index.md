@@ -1,17 +1,13 @@
 ---
-title: "Modeling Histological Patterns for Differential Diagnosis of Atypical Breast Lesions"
+title: "Artificial intelligence techniques for integrative structural biology of intrinsically disordered proteins"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- admin
-- Om Choudhary
 - Arvind Ramanathan
-- Olga Navolotskaia
-- Gloria Carter
-- Akif Burak Tosun
-- Jeffrey L. Fine
+- Heng Ma
+- admin
 - S. Chakra Chennubhotla
 
 # Author notes (optional)
@@ -19,11 +15,11 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2021-09-29T00:00:00Z"
+date: "2021-02-027T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-09-29T00:00:00Z"
+publishDate: "2021-02-27T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -32,8 +28,8 @@ publishDate: "2021-09-29T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)*
-publication_short: In *MICCAI*
+publication: In *Current Opinion in Structural Biology*
+publication_short: In *Current Opinion in Structural Biology*
 
 #abstract: Our goal in this paper is to build parametric models for a dictionary of histological patterns that aid in the differential diagnosis of atypical breast lesions and evaluate the inferential power of these hand-crafted features. Diagnosis of high-risk atypical breast lesions is challenging and remains a critical component of breast cancer screening, presenting even for experienced pathologists a more difficult classification problem than the binary detection task of cancer vs not-cancer. Following guidelines in the WHO classification of the tumors of the breast (an essential reference for pathologists, clinicians and researchers) and in consultation with our team of breast sub-specialists (N = 3), we assembled a visual dictionary of sixteen histological patterns (e.g., cribriform, picket-fence), a subset that pathologists frequently use in making complex diagnostic decisions of atypical breast lesions. We invoke parametric models for each pattern using a mix of unary, binary and ternary features that account for morphological and architectural tissue properties. We use 1441 ductal regions of interest (ROIs) extracted automatically from 93 whole slide images (WSIs) with a computational pathology pipeline. We collected diagnostic labels for all of the ROIs - normal and columnar cell changes (CCC) as low-risk benign lesions (= 1124), and flat epithelium atypia (FEA) and atypical ductal hyperplasia (ADH) as high-risk benign lesions (= 317). We generate likelihood maps for each dictionary pattern across a given ROI and integrate this information to determine a diagnostic label of high- or low-risk. Our method has comparable classification accuracies to the pool of breast pathology sub-specialists. Our study enables a deeper understanding of the discordance among pathologists in diagnosing atypical breast lesions.
 
@@ -43,14 +39,14 @@ publication_short: In *MICCAI*
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://link.springer.com/chapter/10.1007/978-3-030-59722-1_53'
+url_pdf: 'https://www.sciencedirect.com/science/article/pii/S0959440X20302190?casa_token=AhlBUn3ewvMAAAAA:tIdxKlfvPN0vmKUUBy2B9dec6_2gtuj3S4XhrKWrdGK7xqDSOGzB0NpPHGR91O-FSnBkbw'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -61,23 +57,23 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: Springer Publisher'
-  focal_point: ""
-  preview_only: false
+# image:
+#   caption: 'Image credit: Springer Publisher'
+#   focal_point: ""
+#   preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- example
+# projects:
+# - example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+# slides: example
 ---
