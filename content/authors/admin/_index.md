@@ -25,15 +25,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD Candidate in Computational Biology
+    institution: Carnegie-Mellon and University of Pittsburgh School of Medicine, USA
+    year: expected 2022
+  - course: MS in Information Science
+    institution: University of Pittsburgh, USA
+    year: 2016
+  - course: BTech in Electronics and Communication Engineering
+    institution: R.V. College of Engineering, India
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
