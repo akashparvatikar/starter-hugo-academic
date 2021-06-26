@@ -8,6 +8,7 @@ authors:
 - admin
 - Om Choudhary
 - Arvind Ramanathan
+- Rebekah Jenkins
 - Olga Navolotskaia
 - Gloria Carter
 - Akif Burak Tosun
@@ -19,11 +20,11 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2020-09-29T00:00:00Z"
+date: "2021-09-27T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-09-29T00:00:00Z"
+publishDate: "2021-09-27T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -43,14 +44,14 @@ publication_short: In *MICCAI*
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://link.springer.com/chapter/10.1007/978-3-030-59722-1_53'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -72,7 +73,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- miccai1
+- miccai2
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
