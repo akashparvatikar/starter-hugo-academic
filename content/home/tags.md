@@ -12,7 +12,7 @@ weight: 120
 title: Popular Topics
 subtitle: ''
 
-tags = ['Pathology', 'Vision']
+tags = ["Pathology", "Vision"]
 
 content:
 # Choose the taxonomy from `config.toml` to display (e.g. tags, categories)
