@@ -6,15 +6,15 @@ title: Akash Parvatikar
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Carnegie-Mellon and University of Pittsburgh School of Medicine
+  url: http://www.compbio.cmu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Akash is a biomedical imaging scientist interested in investigating the mechanistic underpinnings of inter- and intra-class diagnostic variability in histopathology images and spatial intratumoral heterogeneity in multiplex image data.
 
 # Interests to show in About widget
 interests:
