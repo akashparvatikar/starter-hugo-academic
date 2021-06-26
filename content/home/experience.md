@@ -22,39 +22,51 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
+  # - title: CEO
+  #   company: GenCoin
+  #   company_url: ''
+  #   company_logo: org-gc
+  #   location: California
+  #   date_start: '2021-01-01'
+  #   date_end: ''
+  #   description: |2-
+  #       Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+  #       * Analysing
+  #       * Modelling
+  #       * Deploying
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  # - title: Professor of Semiconductor Physics
+  #   company: University X
+  #   company_url: ''
+  #   company_logo: org-x
+  #   location: California
+  #   date_start: '2016-01-01'
+  #   date_end: '2020-12-31'
+  #   description: Taught electronic engineering and researched semiconductor physics.
 
   - title: Graduate Student Researcher 
-    company: University of Pittsburgh 
-    company_url: 'https://www.physicsandastronomy.pitt.edu/people/yasha-kaushal'
+    company: Joint Carnegie-Mellon and University of Pittsburgh School of Medicine 
+    company_url: 'http://www.compbio.cmu.edu'
     company_logo: pitt
     location: Pittsburgh, USA
-    date_start: '2019-07-01'
+    date_start: '2018-08-01'
     date_end: ''
     description: |2-
-      Studying the recovery of star-formation histories and the interplay of stellar population parameters like stellar metallicity, light-weighted ages and dust attenuation with morphology, feedback processes and environment of LEGA-C galaxies using Bayesian SED modeling under guidance of <a href="https://rachelbezanson.github.io/" target="_blanck"> Dr. Rachel Bezanson</a>.
-
+        * Investigate the mechanistic underpinnings of inter- and intra-class diagnostic variability in histopathology images and spatial intratumoral heterogeneity in multiplex image data
+        * Develop computational pathology tools for the challenging task of correctly classifying sub-categories present within the diagnostic spectrum of breast lesions
+        * Conceptualize an explainable AI framework intended to capture the visual diagnostic thinking of the pathologists
+        * Build a computational pathology-based cognitive assistant by demonstrating perceptual and planning components which are useful in bringing the above technologies to everyday pathology practice 
+  
+  - title: Graduate Teaching Assistant 
+    company: University of Pittsburgh 
+    company_url: 'http://www.compbio.cmu.edu'
+    company_logo: pitt
+    location: Pittsburgh, USA
+    date_start: '2019-09-01'
+    date_end: '2019-12-15'
+    description: MSC 2065 Scalable Machine Learning for Big Data Biology
+        
 design:
   columns: '2'
 ---
