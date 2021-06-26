@@ -78,6 +78,17 @@ experience:
         * Developed computational tools to analyze high-throughput, low-resolution Cryo-Electron Microscopy images for betagalactosidase, a bacterial enzyme
         * Gathered necessary skills to use RELION (Regularized Likelihood Optimization) software that uses Bayesian statistics to reconstruct three-dimensional representation of biomolecules to near atomic resolution from two-dimensional micrographs data obtained by taking snapshots of macromolecule in different orientations
         
+  - title: Advanced Short-Term Research Scientist
+    company: Oak Ridge National Laboratory (ORNL)
+    company_url: 'https://www.ornl.gov'
+    company_logo: ornl
+    location: Oak Ridge, USA
+    date_start: '2017-05-01'
+    date_end: '2017-07-01'
+    description: |2-
+        * Contributed in developing ANCA software (Anharmonic Conformational Analysis) as an extensible framework to characterize anharmonic events and enable a deeper analysis of their functional relevance
+        * Contributed in developing toolbox that provides modules to measure long tail behavior of complex protein fluctuations by chasing higher order statistics
+
 design:
   columns: '2'
 ---
