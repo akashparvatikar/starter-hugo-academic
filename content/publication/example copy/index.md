@@ -1,5 +1,5 @@
 ---
-title: "Modeling Histological Patterns for Differential Diagnosis of Atypical Breast Lesions"
+title: "Prototypical models for classifying high-risk atypical breast lesions"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -43,7 +43,7 @@ publication_short: In *MICCAI*
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
