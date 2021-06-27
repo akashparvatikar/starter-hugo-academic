@@ -40,7 +40,7 @@ publication_short: In *MICCAI*
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: []
+tags: ["MICCAI", "Atypical Breast Lesions", "Computational Pathology", "Explainable AI", "Histological Patterns", "Oral Talk", "Analytical Modeling"]
 
 # Display this page in the Featured widget?
 featured: true
