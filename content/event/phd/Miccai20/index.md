@@ -23,7 +23,7 @@ abstract: Modeling Histological Patterns for Differential Diagnosis of Atypical 
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-#publishDate: 2021-04-01T15:09:23+02:00
+publishDate: 2020-10-06
 
 authors: ["admin"]
 tags: ["MICCAI", "University of Pittsburgh", "Atypical Breast Lesions", "Computational Pathology", "Explainable AI", "Histological Patterns"]
