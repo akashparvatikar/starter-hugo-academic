@@ -12,7 +12,7 @@ address:
   postcode:
   country: USA
 summary: 
-abstract: 
+abstract: Modeling Histological Patterns for Differential Diagnosis of Atypical Breast Lesions
 
 
 # Talk start and end times.
