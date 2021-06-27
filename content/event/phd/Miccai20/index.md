@@ -17,12 +17,13 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2021-03-38T09:00:00+02:00
+
+#date: 2021-03-38T09:00:00+02:00
 # date_end: 2021-04-27T09:10:00+02:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2021-04-01T15:09:23+02:00
+#publishDate: 2021-04-01T15:09:23+02:00
 
 authors: ["admin"]
 tags: ["MICCAI", "University of Pittsburgh", "Atypical Breast Lesions", "Computational Pathology", "Explainable AI", "Histological Patterns"]
