@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Oral Talk"
+title: "Oral Talk - MICCAI Conference"
 event: "MICCAI Conference"
 event_url: "https://www.miccai2020.org/en/"
 location: "Online | 4 - 8 October 2020"
@@ -36,7 +36,7 @@ featured: true
 image:
   caption: ""
   focal_point: ""
-  preview_only: true
+  preview_only: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
