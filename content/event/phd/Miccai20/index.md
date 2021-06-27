@@ -11,8 +11,8 @@ address:
   region:
   postcode:
   country: USA
-#summary: 
-#abstract: 
+summary: 
+abstract: 
 
 
 # Talk start and end times.
@@ -49,7 +49,7 @@ image:
 # Optional filename of your slides within your talk's folder or a URL.
 url_slides: ""
 url_code: ""
-url_pdf: "talk/phd/Miccai20/Paper_1768.pdf"
+url_pdf: "event/phd/Miccai20/Paper_1768.pdf"
 url_video: "https://pitt.box.com/s/irmz8e7xy36n2eqqjensweta2waibov0"
 
 # Markdown Slides (optional).
