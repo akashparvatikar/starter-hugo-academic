@@ -12,7 +12,7 @@ address:
   postcode:
   country: USA
 summary: 
-abstract: "https://pitt.box.com/s/irmz8e7xy36n2eqqjensweta2waibov0"
+abstract: 
 
 
 # Talk start and end times.
