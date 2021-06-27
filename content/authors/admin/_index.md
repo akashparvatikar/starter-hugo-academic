@@ -70,7 +70,7 @@ social:
 email: "akash.parvatikar@gmail.com"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
 Akash is a PhD candidate specializing in biomedical imaging informatics and computational and systems pathology. He is interested in investigating the intrinsic characteristics of biomedical images at multi-scale resolutions using statistical modeling, computer vision, machine learning, and graph-based deep learning techniques. He has developed explainable computational pathology algorithms to understand the origins of diagnostic discordance in differentially diagnosing a broad spectrum of breast lesions from digitized histopathology images. 
