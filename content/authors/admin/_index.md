@@ -30,13 +30,13 @@ education:
   courses:
   - course: PhD Candidate in Computational Biology
     institution: Joint Carnegie-Mellon and University of Pittsburgh, USA
-    year: expected 2022
+    year: expected Spring 2022
   - course: MS in Information Science
     institution: University of Pittsburgh, USA
-    year: 2016
+    year: 2018
   - course: BTech in Electronics and Communication Engineering
     institution: R.V. College of Engineering, India
-    year: 2012
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
