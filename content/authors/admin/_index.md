@@ -19,6 +19,7 @@ bio: Akash is a biomedical imaging scientist interested in investigating the mec
 # Interests to show in About widget
 interests:
 - Computational and Digital Pathology
+- Spatial Biology
 - Explainable Artificial Intelligence
 - Computer Vision
 - Biomedical Informatics
