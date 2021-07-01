@@ -27,15 +27,6 @@ interests:
 - Graph Learning
 - Statistics and Machine Learning
 
-interests:
-- Computational and Digital Pathology
-- Spatial Biology
-- Explainable Artificial Intelligence
-- Computer Vision
-- Biomedical Informatics
-- Graph Learning
-- Statistics and Machine Learning
-
 # Education to show in About widget
 education:
   courses:
@@ -84,6 +75,6 @@ email: "akash.parvatikar@gmail.com"
 highlight_name: true
 ---
 
-Akash is a PhD candidate specializing in biomedical imaging informatics and computational and systems pathology. He is interested in investigating the intrinsic characteristics of biomedical images at multi-scale resolutions using statistical modeling, computer vision, machine learning, and graph-based deep learning techniques. He has developed explainable computational pathology algorithms to understand the origins of diagnostic discordance in differentially diagnosing a broad spectrum of breast lesions from digitized histopathology images. 
+Akash is a PhD candidate specializing in biomedical imaging informatics and computational and systems pathology. He is interested in investigating the intrinsic characteristics of biomedical images at multi-scale resolutions using statistical modeling, computer vision, machine learning, and graph-based deep learning techniques. He has developed explainable computational pathology algorithms to understand the origins of diagnostic discordance in differentially diagnosing a broad spectrum of breast lesions from digitized histopathology images. He is also serving as a Member of the Review Board for [Journal of Pathology Informatics](https://www.jpathinformatics.org/) and [Signal, Image and Video Processing](https://www.springer.com/journal/11760). He is also an active member of the [Digital Pathology Association](https://digitalpathologyassociation.org/).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
