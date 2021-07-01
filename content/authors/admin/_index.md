@@ -10,6 +10,7 @@ role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
+- name: Computational Biology
 - name: Carnegie-Mellon and University of Pittsburgh School of Medicine
   url: http://www.compbio.cmu.edu/
 
@@ -17,6 +18,15 @@ organizations:
 bio: Akash is a biomedical imaging scientist interested in investigating the mechanistic underpinnings of inter- and intra-class diagnostic variability in histopathology images and spatial intratumoral heterogeneity in multiplex image data.
 
 # Interests to show in About widget
+interests:
+- Computational and Digital Pathology
+- Spatial Biology
+- Explainable Artificial Intelligence
+- Computer Vision
+- Biomedical Informatics
+- Graph Learning
+- Statistics and Machine Learning
+
 interests:
 - Computational and Digital Pathology
 - Spatial Biology
