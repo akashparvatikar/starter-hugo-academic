@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Oral Talk - MICCAI Conference"
+title: "Oral Talk - MICCAI 2020 Conference"
 event: "MICCAI Conference"
 event_url: "https://www.miccai2020.org/en/"
 location: "Online | 4 - 8 October 2020"
