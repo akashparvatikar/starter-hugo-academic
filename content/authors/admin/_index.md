@@ -1,7 +1,4 @@
 ---
-header:
-  image: "wp2.jpeg"
-  caption: "Image credit: [**Geo**](https://github.com/gcushen/)"
 # Display name
 title: Akash Parvatikar
 
